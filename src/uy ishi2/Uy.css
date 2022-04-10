@@ -1,0 +1,20 @@
+input{
+    height: 34px;
+    background-color: #000;
+    color: #fff;
+    text-indent: 7px;
+    margin-left: 5px;
+}
+button{
+    margin-left: 10px;
+}
+::placeholder{
+    color: #fff;
+}
+.c{
+    background-color: #d8d4d4;
+}
+.ca{
+    background-color: black;
+    color: #fff;
+}
