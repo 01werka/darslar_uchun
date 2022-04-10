@@ -31,6 +31,7 @@ function App() {
       </context.Provider> */}
         {/* <Memo/> */}
         {/* <Reduser /> */}
+        {/* {mana yangi test  qo'shidi hulla bu yangi companent dafaddsfadfdsf} */}
       </div>
     )
   }
