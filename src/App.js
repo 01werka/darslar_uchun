@@ -14,6 +14,7 @@ import Context2 from "./darslar/Context2";
 import { context } from './darslar/Context'
 import Reduser from "./darslar/Reduser"
 import React, { useState, useReducer } from 'react'
+import Post from "./Api/Post";
 
 
 
@@ -32,6 +33,7 @@ function App() {
         {/* <Memo/> */}
         {/* <Reduser /> */}
         {/* {mana yangi test  qo'shidi hulla bu yangi companent dafaddsfadfdsf} */}
+        <Post/>
       </div>
     )
   }
